@@ -17,4 +17,4 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```bash
    npx expo start
    ```
-3.scan the QR code from the expo app make your internet is connected to th same wi-fi.
+3.scan the QR code from the expo app make sure your internet is connected to th same wi-fi.
